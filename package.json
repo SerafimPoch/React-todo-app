@@ -2,7 +2,7 @@
   "name": "db2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serafimpoch.github.io/react-todo-app/",
+  "homepage": "https://serafimpoch.github.io/db2/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.2",
