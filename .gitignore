@@ -19,6 +19,7 @@ Thumbs.db
 # Application specific files
 venv
 node_modules
-build
 .sass-cache
 
+build/*
+!build/build.xml
