@@ -8,7 +8,7 @@ describe("actions", () => {
       type: types.ADD_TASK,
       payload: task
     };
-    expect(action.addTask(task)).toEqual(expectedAction);
+    expect(action.add(task)).toEqual(expectedAction);
   });
 
   it("should create remove action", () => {

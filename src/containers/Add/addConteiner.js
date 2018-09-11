@@ -1,5 +1,5 @@
-import { addTask } from "../../store/actions/";
+import { add } from "../../store/actions/";
 
 export const mapDispatchToProps = {
-  addTask
+  add
 };

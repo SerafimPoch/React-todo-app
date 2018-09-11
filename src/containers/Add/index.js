@@ -8,7 +8,7 @@ import Button from "../../components/add/button";
 
 class Add extends Component {
   myVal = ({ addText }) => {
-    this.props.addTask(addText);
+    this.props.add(addText);
     this.props.reset();
   };
 
